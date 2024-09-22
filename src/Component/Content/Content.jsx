@@ -38,12 +38,22 @@ const Content = () => {
                 Keahlian mereka memungkinkan kami untuk melakukan jauh lebih banyak, gairah dan nama besar mereka menginspirasi kami.
                 Kebanggaan kami untuk memperkenalkan Anda kepada beberapa organisasi yang prestasi dan komitmennya tidak diragukan lagi.</p>
                 </center>
-                <img src="http://localhost:5173/src/Component/Content/logo-logoan.png" className='logoan' alt="" />
+                <div className="logoan">
+                    <div className="logoan1">
+                        <img src="https://pandawa87pasuruan.com/wp-content/uploads/2018/11/Scania_PNG.png" alt="" />
+                        <img src="https://pandawa87pasuruan.com/wp-content/uploads/2018/11/NewArmada_PNG.png" alt="" />
+                        <img src="https://pandawa87pasuruan.com/wp-content/uploads/2018/11/Mercedes-Benz_PNG.png" alt="" />
+                        <img src="https://pandawa87pasuruan.com/wp-content/uploads/2020/02/tentrem.png" alt="" />
+                        <img src="https://pandawa87pasuruan.com/wp-content/uploads/2018/11/AdiPutro_PNG.png" alt="" />
+                    </div>
+                    <div className="logoan2">
+                        <img src="https://pandawa87pasuruan.com/wp-content/uploads/2020/02/laksana.png" alt="" />
+                        <img src="https://pandawa87pasuruan.com/wp-content/uploads/2020/02/hino.png" alt="" />
+                        <img src="https://pandawa87pasuruan.com/wp-content/uploads/2020/02/isuzu.png" alt="" />
+                    </div>
+                </div>
             </div>
             
-            <div id='kontak' className="kontak">
-                <img src="http://localhost:5173/src/Component/Content/kontak.png" alt="" />
-            </div>
         </div>
     )
 }

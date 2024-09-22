@@ -77,13 +77,16 @@
     margin-top: 20px;
 }
 .logoan{
-    background-image: url(logo-logoan.png);
-    image-rendering: auto;
-    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 50px;
 }
-.kontak img{
-    background-image: url(kontak.png);
-    image-rendering: auto;
-    padding-top: 20px;
-    width: 100%;   
+.logoan .logoan1{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.logoan .logoan2{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
 }
