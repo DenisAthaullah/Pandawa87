@@ -1,0 +1,20 @@
+.footer{
+    background-color: #222222;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0;
+    padding: 0;
+}
+.footer h3{
+    color: #2EA3F2;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 18px;
+    margin-bottom: 10px;
+    margin-top: 100px;
+}
+.footer p{
+    color: #ffffff;
+    line-height: 23.8px;
+    margin-bottom: 100px;
+}
