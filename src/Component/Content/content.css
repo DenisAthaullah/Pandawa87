@@ -54,6 +54,7 @@
     height: 25%;
     width: 25%;
 }
+
 .partner h3{
     font-size: 30px;
     font-weight: 900;
@@ -76,9 +77,13 @@
     margin-top: 20px;
 }
 .logoan{
+    background-image: url(logo-logoan.png);
+    image-rendering: auto;
     width: 100%;
 }
 .kontak img{
+    background-image: url(kontak.png);
+    image-rendering: auto;
     padding-top: 20px;
     width: 100%;   
 }
