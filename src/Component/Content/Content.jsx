@@ -38,11 +38,11 @@ const Content = () => {
                 Keahlian mereka memungkinkan kami untuk melakukan jauh lebih banyak, gairah dan nama besar mereka menginspirasi kami.
                 Kebanggaan kami untuk memperkenalkan Anda kepada beberapa organisasi yang prestasi dan komitmennya tidak diragukan lagi.</p>
                 </center>
-                <img src="./logo-logoan.png" className='logoan' alt="" />
+                <img src="./src/Component/Content/logo-logoan.png" className='logoan' alt="" />
             </div>
             
             <div id='kontak' className="kontak">
-                <img src="./kontak.png" alt="" />
+                <img src="./src/Component/Content/kontak.png" alt="" />
             </div>
         </div>
     )
